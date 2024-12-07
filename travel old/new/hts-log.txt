@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 05 Jun 2024 22:50:53 at https://bracketweb.com/trevlo-html/demo-landing.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -P http: https://bracketweb.com/trevlo-html/demo-landing.html -O1 "C:\Users\pramu\OneDrive\Desktop\travel\new" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:11:29	Error: 	"Not Found" (404) at link https://bracketweb.com/trevlo-html/blog.html (from https://bracketweb.com/trevlo-html/index.html)
+23:11:29	Error: 	"Not Found" (404) at link https://bracketweb.com/trevlo-html/destinations.html (from https://bracketweb.com/trevlo-html/index.html)
+23:11:39	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link translate.google.com/translate_a/element.js?cb=googleTranslateElementInit (from https://bracketweb.com/trevlo-html/index-rtl.html)
+23:11:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://bracketweb.com/trevlo-html/assets/images/tours/tour-listing-details-post-3.jpg (from https://bracketweb.com/trevlo-html/tour-listing-side-filter-left.html)
+23:11:42	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link translate.google.com/translate_a/element.js?cb=googleTranslateElementInit (from https://bracketweb.com/trevlo-html/index-rtl.html)
+23:11:45	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link translate.google.com/translate_a/element.js?cb=googleTranslateElementInit (from https://bracketweb.com/trevlo-html/index-rtl.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 52 seconds : 589 links scanned, 582 files written (36153584 bytes overall) [26972656 bytes received at 21543 bytes/sec], 11851523 bytes transferred using HTTP compression in 138 files, ratio 20%, 2.1 requests per connection
+(3 errors, 3 warnings, 0 messages)
